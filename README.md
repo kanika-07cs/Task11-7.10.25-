@@ -48,8 +48,8 @@ Histograms with KDE plots using Seaborn
 
 # How to Run
 1. Clone the repository
-- git clone https://github.com/yourusername/House-Rent-Prediction.git
-- cd House-Rent-Prediction
+- git clone <repo_name>
+- cd <repo_name>
 2. Install dependencies
 - pip install -r requirements.txt
 - pip install streamlit
