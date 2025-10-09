@@ -48,11 +48,11 @@ Histograms with KDE plots using Seaborn
 <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/59c15a25-7507-471d-88e1-18bf3101d7c5" />
 
 # Libraries Used
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
 
 # Conclusion
 This project demonstrates the end-to-end process of:
