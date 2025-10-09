@@ -46,6 +46,17 @@ Histograms with KDE plots using Seaborn
 - seaborn
 - scikit-learn
 
+# How to Run
+1. Clone the repository
+- git clone https://github.com/yourusername/House-Rent-Prediction.git
+- cd House-Rent-Prediction
+2. Install dependencies
+- pip install -r requirements.txt
+- pip install streamlit
+  
+# Stremlit Screenshot
+<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/e62132ae-dbaf-4600-b697-1524f2c775ea" />
+
 # Conclusion
 This project demonstrates the end-to-end process of:
 - Data preprocessing
