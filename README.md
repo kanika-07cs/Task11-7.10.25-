@@ -25,18 +25,10 @@ Streamlit: https://7-10-25-home-rent.streamlit.app/
 - Dataset split into train (80%) and test (20%) using train_test_split.
   
 # Model Development
-1.Algorithm Used: LinearRegression from scikit-learn
-2.Model trained on transformed and encoded features.
-3.Coefficients and intercepts were extracted for interpretability.
-4.Evaluation metrics used:R² Score,Root Mean Squared Error (RMSE)
-
-📈 Evaluation
-
-Example metrics (from the code output):
-
-Metric	Description	Value
-R² (Test)	Model accuracy on unseen data	~0.85–0.90 (depends on dataset)
-RMSE (Test)	Prediction error in standardized scale	approx. 0.3–0.5
+1. Algorithm Used: LinearRegression from scikit-learn
+2. Model trained on transformed and encoded features.
+3. Coefficients and intercepts were extracted for interpretability.
+4. Evaluation metrics used:R² Score,Root Mean Squared Error (RMSE)
 
 # Visualization
 Distribution of transformed variables (BHK, Size, Bathroom, Rent)
