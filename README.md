@@ -5,6 +5,7 @@ The dataset undergoes preprocessing, transformation, and feature encoding to bui
 
 # Dataset
 File: https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset?select=House_Rent_Dataset.csv
+
 Streamlit: https://7-10-25-home-rent.streamlit.app/
 
 # Key Features:
@@ -40,6 +41,11 @@ RMSE (Test)	Prediction error in standardized scale	approx. 0.3–0.5
 # Visualization
 Distribution of transformed variables (BHK, Size, Bathroom, Rent)
 Histograms with KDE plots using Seaborn
+
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/9e368fcb-4578-44bb-8f1c-e1bbb5105601" />
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/a2af29cd-de81-4e35-89e7-f2bbaff994ce" />
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/8de15bfb-dea6-44b9-8ebe-164915f8d737" />
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/59c15a25-7507-471d-88e1-18bf3101d7c5" />
 
 # Libraries Used
 numpy
